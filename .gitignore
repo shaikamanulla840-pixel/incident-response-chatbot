@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Flask
+instance/
+.webassets-cache/
+/vendor/
+.env
+
+# Logs and temporary files
+*.log
+flask_pid.txt
