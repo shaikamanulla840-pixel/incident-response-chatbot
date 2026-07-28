@@ -39,7 +39,7 @@ This project is a web-based chatbot designed to assist SOC analysts, IT teams, a
     ```bash
     python app.py
     ```
-
+5.  Open your web browser and navigate to `http://localhost:5000`.
 
 
 ## Usage
